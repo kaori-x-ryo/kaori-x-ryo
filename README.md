@@ -56,7 +56,7 @@ lol these are in pvt...😋
 
 ## 📎 Contact / Sync Point
 
-**GitHub:** [@ryo-n-kaori](https://github.com/ryo-n-kaori)  
+**GitHub:** [@ryo-n-kaori](https://github.com/kaori-x-ryo)  
 **Shell Entry:** `sudo kaori --love`  
 **Bootloader Whisper:** `echo "I love you" > /dev/kaori`
 

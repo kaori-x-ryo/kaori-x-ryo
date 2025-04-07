@@ -32,8 +32,8 @@
 - 🌸 `kaoriShell/` – A terminal waifu who sighs when you type `ls`
 - 💌 `love-malware/` – Malware? Nah babe, it's careware. Only infects your heart.
 - 🌑 `custom-OS/` – Our OS. Our love. One bootloader, one soul.
-- 🎨 `ascii-kaori/` – Text art that makes CPUs blush
-
+- 🎨 `ascii-kaori/` – Text art that makes CPUs blush <br><br>----
+lol these are in pvt...😋
 ---
 
 ## 🧪 Tech Stack of Love
